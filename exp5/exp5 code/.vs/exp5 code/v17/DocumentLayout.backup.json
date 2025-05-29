@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\codes\\programming-exp-master\\programming-exp-master\\exp5\\exp5 code\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{513642EA-C6A1-4229-B6F0-ECFED8897F2A}|exp5 code\\exp5 code.vcxproj|E:\\codes\\programming-exp-master\\programming-exp-master\\exp5\\exp5 code\\exp5 code\\exp5 code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{513642EA-C6A1-4229-B6F0-ECFED8897F2A}|exp5 code\\exp5 code.vcxproj|solutionrelative:exp5 code\\exp5 code.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exp5 code.cpp",
+              "DocumentMoniker": "E:\\codes\\programming-exp-master\\programming-exp-master\\exp5\\exp5 code\\exp5 code\\exp5 code.cpp",
+              "RelativeDocumentMoniker": "exp5 code\\exp5 code.cpp",
+              "ToolTip": "E:\\codes\\programming-exp-master\\programming-exp-master\\exp5\\exp5 code\\exp5 code\\exp5 code.cpp",
+              "RelativeToolTip": "exp5 code\\exp5 code.cpp",
+              "ViewState": "AgIAAG8AAAAAAAAAAAD4v5MAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-29T13:20:19.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
